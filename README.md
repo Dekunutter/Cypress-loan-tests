@@ -21,16 +21,27 @@ Prepping for the tests involves the installation and use of Cypress.io
 
 # Test Cases:
 Verify that the link to compare loan rates is working correctly
+
 Change the amount you wish to borrow and verify that the output fields update
+
 Change the amount you wish to borrow to values out of scope for the calculator and ensure that errors are displayed
+
 Verify that the borrow amount only accepts numeric characters
+
 Change the repayment period and verify that the output fields update
+
 Verify that the information tool tips can be expanded
+
 Ensure that the amortization schedule works as intended by revealing/hiding itself on demand and that the start and end dates correctly hange depending on user input.
+
 Change the interest rate and verify that it correctly changes the monthly repayment result
+
 Verify that invalid interest rates are correctly caught and display errors
+
 Verify that invalid date inputs in amortization schedules are correctly caught and display errors
+
 Verify that clicking the find a rate dropdown displays the text option to look below
+
 
 
 
